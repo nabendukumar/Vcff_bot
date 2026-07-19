@@ -10,7 +10,7 @@ from telegram.ext import (
     filters
 )
 
-TOKEN = "8772077518:AAEIlu2vgGE4tlZAKmtqGxwymIP_OcjaaGc"
+BOT_TOKEN = "8772077518:AAEIlu2vgGE4tlZAKmtqGxwymIP_OcjaaGc"
 
 user_state = {}
 user_data = {}
